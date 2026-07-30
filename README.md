@@ -34,3 +34,4 @@ El objetivo es que puedas acceder fácilmente a recursos para que repases los te
 * GeeksForGeeks: https://www.geeksforgeeks.org
 > En esta página puedes encontrar explicaciones y ejemplos claros de cada tema
 
+blob:https://web.whatsapp.com/090525bf-704f-4c49-87ca-6ed8999e453e
