@@ -11,12 +11,11 @@ El objetivo es que puedas acceder fácilmente a recursos para que repases los te
 
 ---
 
-## Contenido 📂
+## Contenidos por carpeta 📂
 - 📚 Presentaciones
 - 💻 Ejemplos programados
 - 📝 Ejercicios
 - ✅ Soluciones
-- 🔎 Recursos complementarios
 
 > 📌 **Nota:** Las soluciones tienen un propósito referencial. Cada ejercicio puede tener distintas formas de resolverse.
 
