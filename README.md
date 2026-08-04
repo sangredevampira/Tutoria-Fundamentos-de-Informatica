@@ -11,7 +11,7 @@ El objetivo es que puedas acceder fácilmente a recursos para que repases los te
 
 ---
 
-## Contenidos por carpeta 📂
+## Contenidos 📂
 - 📚 Presentaciones
 - 💻 Ejemplos programados
 - 📃 Exámenes anteriores
